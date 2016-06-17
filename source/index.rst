@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sophomorix benutzen
-===================
+Benutzer verwalten mit der Schulkonsole
+=======================================
 
 Das ist die Hauptdatei aus dem meta_example-Paket, die enthält zunächst nur das Inhaltsverzeichnis. 
 Jedes Kapitel der Dokumentation kommt in eine eigene Datei, die hier 
